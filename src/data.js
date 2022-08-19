@@ -7,7 +7,7 @@ export const data = [
     {
         id: 2,
         title: 'And Another',
-        text: 'I am once again asking and then rawr the one lol and them one does not simply and so moar your was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
+        text: 'I am once again asking and then rawr the one lol and them one does not simply and so moar your was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
     }, 
     {
         id: 3,
@@ -17,7 +17,7 @@ export const data = [
     {
         id: 4,
         title: 'tItLe',
-        text: 'I am once again asking and then rawr the one lol and them one does not simply and so moar your was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
+        text: 'I am once again asking and some time.'    
     },   
     {
         id: 5,
@@ -38,12 +38,12 @@ export const data = [
     {
         id: 8,
         title: 'A Title',
-        text: 'I and them one does not simply and so moar your was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
+        text: 'I and them one does not simply and so moar your was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
     }, 
     {
         id: 9,
         title: 'The Title',
-        text: 'I amnd r was !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
+        text: 'I amnd r was !!!111!eleven one does not if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven your was chicky nuggies and then chad your was. let them stonks our other henlo and ok dont be like bill the one rawr your was many wow my and moar who is not sure if... or just let them. let them you cant if you never by the you cant if you never your was i dont always some time many wow and so you cant if you never and them omg wow and ok chicky nuggies and so. who is me to me: and them not sure if... or just who is me to me: your was moar the one moar our other chad some time can haz cheeseburger and then. and so !!!111!eleven your was rawr and ok !!!111!eleven let them same by the i dont always and ok !!!111!eleven our other chad some time.'    
     }, 
     {
         id: 10,
